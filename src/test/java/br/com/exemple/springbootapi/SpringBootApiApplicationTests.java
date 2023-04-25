@@ -1,4 +1,4 @@
-package br.com.ictcondor.springbootapi;
+package br.com.exemple.springbootapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,13 +1,12 @@
-package br.com.ictcondor.springbootapi;
+package br.com.exemple.springbootapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootApiApplication {
+public class AlgacrmApiApplication  {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootApiApplication.class, args);
+		SpringApplication.run(AlgacrmApiApplication.class, args);
 	}
-
 }
